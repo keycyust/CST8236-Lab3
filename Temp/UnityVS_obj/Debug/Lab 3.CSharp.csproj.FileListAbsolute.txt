@@ -1,0 +1,15 @@
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
+C:\Users\mireillefrancia\Documents\Lab 3\Temp\UnityVS_obj\Debug\Lab 3.CSharp.csprojResolveAssemblyReference.cache

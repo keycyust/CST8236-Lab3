@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/mireillefrancia/Documents/CST8236-Lab3-master/Assets/mainscene.unity
+  isLoaded: 1
+  isActive: 1
